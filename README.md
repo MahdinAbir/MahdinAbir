@@ -64,7 +64,7 @@ Beyond coding, I find inspiration in nature and enjoy connecting technology with
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdinAbir&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahdinAbir&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://i.ibb.co.com/QFxtBsYN/download.png" alt="GitHub Streak" />
 </p>
 
 
