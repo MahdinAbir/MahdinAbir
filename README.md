@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://i.ibb.co.com/rGHTYTrq/coverpic.png)" alt="Mahdin Hossen Abir Banner" width="100%" />
+  <img src="https://i.ibb.co.com/rGHTYTrq/coverpic.png" alt="Mahdin Hossen Abir Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mahdin Hossen Abir 👋</h1>
