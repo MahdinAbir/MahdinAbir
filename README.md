@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/rGHTYTrq/coverpic.png" alt="Mahdin Hossen Abir Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Mahdin Hossen Abir 👋</h1>
+<h1 align="center">Hello!  Mahdin Hossen Abir 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 ---
@@ -53,22 +53,20 @@ Beyond coding, I find inspiration in nature and enjoy connecting technology with
   </a>
   <a href="https://www.linkedin.com/in/mahdinhossenabir/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahdinAbir&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdinAbir&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MahdinAbir&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
